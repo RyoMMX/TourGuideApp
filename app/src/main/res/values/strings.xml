@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="hozomon_map">2-3-2 Asakusa, Taito 111-0032, Tokyo Prefecture</string>
+    <string name="hozomon_location">Ueno, Asakusa</string>
+
+    <string name="imperial_palace_map">1-1 Chiyoda, Chiyoda 100-8111, Tokyo Prefecture</string>
+    <string name="imperial_palace_location">Ginza / Tokyo Nihonbashi</string>
+
+    <string name="sengaku_ji_temple_map">2-11-1 Takanawa, Minato 108-0074, Tokyo Prefecture</string>
+    <string name="sengaku_ji_temple_location">Shinagawa / Gotanda</string>
+
+    <string name="asakusa_shrine_map">2-3-1 Asakusa, Taito 111-0032, Tokyo Prefecture</string>
+    <string name="asakusa_shrine_location"></string>
+
+    <string name="tokyo_camii_turkish_culture_map">1-19 Oyamacho, Shibuya 151-0065, Tokyo Prefecture</string>
+    <string name="tokyo_camii_turkish_culture_location"></string>
+
+    <string name="tokyo_metropolitan_museum_map">1-19 Oyamacho, Shibuya 151-0065, Tokyo Prefecture</string>
+    <string name="tokyo_metropolitan_museum_location"></string>
+    <string name="historical_title">historical</string>
+    <string name="hotel_title">Hotel</string>
+    <string name="park_title">Park</string>
+    <string name="restaurant_title">Restaurant</string>
+    <string name="events_title">Event</string>
+
+
+</resources>
